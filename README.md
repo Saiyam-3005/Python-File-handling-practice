@@ -12,3 +12,6 @@
 11.[text file](https://github.com/Saiyam-3005/Python-File-handling-practice/blob/1aa91feeac120df2684dc9890846d24063cd6101/textfile_5.py)<br>
 12.[print text file content](https://github.com/Saiyam-3005/Python-File-handling-practice/blob/1aa91feeac120df2684dc9890846d24063cd6101/textfile_6.py)<br>
 13.[different orpeations on text file](https://github.com/Saiyam-3005/Python-File-handling-practice/blob/1aa91feeac120df2684dc9890846d24063cd6101/textfile_7.py)<br>
+14.[add data in binary file](https://github.com/Saiyam-3005/Python-File-handling-practice/blob/485452e4e4847d9aceb484ebc99b8a6a157474a4/binary%20file.py)<br>
+15.[binary file](https://github.com/Saiyam-3005/Python-File-handling-practice/blob/485452e4e4847d9aceb484ebc99b8a6a157474a4/binary1.py)<br>
+16.[different binary file operation](https://github.com/Saiyam-3005/Python-File-handling-practice/blob/485452e4e4847d9aceb484ebc99b8a6a157474a4/binary4.py)<br>
